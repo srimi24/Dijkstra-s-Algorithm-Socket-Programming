@@ -1,4 +1,4 @@
-# Dijkstra-s-Algorithm-Socket-Programming
+# Dijkstra's Algorithm-Socket-Programming
 
 ### This project implements shortest-distance computation with Dijkstra's Algorithm along with Socket Programming.
 
