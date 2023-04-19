@@ -4,5 +4,5 @@
 
 ## HOW DOES IT WORK?
   ### The client connects to the server and sends a node number to the server which calculates the shortest distance from that node to every other node using Dijkstra's Algorithm and sends it to the client. 
-  ### TThe connection between the server and client is implemented using Socket Programming
+  ### The connection between the server and client is implemented using Socket Programming
     
